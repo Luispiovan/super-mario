@@ -1,1 +1,1 @@
-# # Simulation of the super mario game with javascript
+## Simulation of the super mario game with javascript
